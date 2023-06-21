@@ -2,17 +2,25 @@
 
 #
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardosoaress&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosoaress&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-<a href="https://github.com/bernardosoaress">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosoaress&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardosoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 <div styles="display: inline_block"><br>
             <img align="center alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             <img align="center alt="CSS3"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            <img align="center alt="JS"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div>
+            <img align="center alt="JS"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/cyberdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bernardosoaress/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
            
          
           
