@@ -1,4 +1,4 @@
-### 👋 Fala devs! Sejam bem vindes ao meu perfil do GitHub. eu sou Bernardo Soares 👋
+### 👋 Fala devs! eu sou Bernardo Soares. Sejam bem vindes ao meu perfil 👋
 
 #
 
