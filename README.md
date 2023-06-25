@@ -1,4 +1,4 @@
-### 👋 Fala devs! eu sou Bernardo Soares. Sejam bem vindes ao meu perfil 👋
+### 👋 <Hello-devs!/> 👋
 
 #
 
